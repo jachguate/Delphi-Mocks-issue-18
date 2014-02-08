@@ -9,3 +9,4 @@ __history
 *.dll
 bin/*
 /test/*.dsk
+/test/*.~dsk
